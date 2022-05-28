@@ -1,0 +1,13 @@
+found bug in SagaMap 
+- skills on decode not support china language in visual studio so cannot intelicense on c# lang error
+
+
+base on C:\Users\Bokie\eco-project\SagaECO\brSagaECO\trunk
+
+ref at proto project
+
+db mysql on docker 5.7
+> server : 127.0.0.1 or localhost
+> name : sagaeco
+> username root
+> password : 123456
